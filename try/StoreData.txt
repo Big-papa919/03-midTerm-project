@@ -1,0 +1,7 @@
+Name: hamza
+Age: 20
+Address: deliblata
+Phone Number: 1111
+Salary: 500000
+-----------------------------
+
